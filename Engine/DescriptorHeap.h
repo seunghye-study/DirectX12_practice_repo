@@ -9,6 +9,7 @@ class DescriptorHeap // == view
 {
 public:
 	void init();
+	void render();
 private:
 
 };
